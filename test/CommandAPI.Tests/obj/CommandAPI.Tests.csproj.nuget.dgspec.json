@@ -14,7 +14,7 @@
         "outputPath": "/Users/tabarekaljaaf/Desktop/PROJECTS/APIs/CommandAPISolution/src/CommandAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/tabarekaljaaf/.nuget/NuGet/NuGet.Config"
+          "/Users/tabarekaljaaf/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -69,7 +69,7 @@
         "outputPath": "/Users/tabarekaljaaf/Desktop/PROJECTS/APIs/CommandAPISolution/test/CommandAPI.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/tabarekaljaaf/.nuget/NuGet/NuGet.Config"
+          "/Users/tabarekaljaaf/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
