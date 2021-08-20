@@ -1,6 +1,13 @@
 ﻿<Properties StartupConfiguration="{0619B840-94DC-4439-B773-2BE4B9177A7A}|Default">
   <MonoDevelop.Ide.ItemProperties.src.CommandAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/CommandAPI/Program.cs">
+    <Files>
+      <File FileName="src/CommandAPI/Data/MockCommandAPIRepo.cs" Line="1" Column="1" />
+      <File FileName="src/CommandAPI/Data/ICommandAPIRepo.cs" Line="1" Column="1" />
+      <File FileName="src/CommandAPI/Program.cs" Line="18" Column="1" />
+      <File FileName="src/CommandAPI/Startup.cs" Line="1" Column="1" />
+      <File FileName="src/CommandAPI/controllers/CommandsController.cs" Line="9" Column="25" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -10,12 +17,11 @@
                 <Node name="controllers" expanded="True" />
                 <Node name="Data" expanded="True" />
                 <Node name="Models" expanded="True" />
+                <Node name="Program.cs" selected="True" />
               </Node>
             </Node>
             <Node name="test" expanded="True">
-              <Node name="CommandAPI.Tests" expanded="True">
-                <Node name="UnitTest1.cs" selected="True" />
-              </Node>
+              <Node name="CommandAPI.Tests" expanded="True" />
             </Node>
           </Node>
         </State>
