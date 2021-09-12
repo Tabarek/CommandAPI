@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using CommandAPI.Data;
+using CommandAPI.Models;
 
 namespace CommandAPI.Data
 {

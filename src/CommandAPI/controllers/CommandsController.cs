@@ -51,10 +51,3 @@ namespace CommandAPI.Controllers
 
 }
 }
-
-
-//1: Add new using statment to the reference
-//2: [_repositry] will be assigned the injected MockCommand
-//3: [public CommandsController(ICommandAPIRepo repositry] the class will be calle dwhen you interdting to make use of our Controller
-//4:
-//5:
