@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IuiosLjayP6txCAgU4M543M0mhNyEmVkhYTq0XRP/0pHt27P5bOQow6WOnhVcqCu5vF5vLab99Mx1vQuci+7Ew==",
+  "dgSpecHash": "recamNJj7MRW1ufeNK0PaypWR8XiRlK+cHOS8bbk/g+UtWNkmqbKLvGJAKLlwyp0IgPgUMjomWoFfxITzLtFHg==",
   "success": true,
-  "projectFilePath": "/Users/tabarekaljaaf/Desktop/PROJECTS/APIs/CommandAPISolution/src/CommandAPI/CommandAPI.csproj",
+  "projectFilePath": "/Users/tabarekaljaaf/PROJECTS/APIs/CommandAPISolution/src/CommandAPI/CommandAPI.csproj",
   "expectedPackageFiles": [
+    "/Users/tabarekaljaaf/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/tabarekaljaaf/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/Users/tabarekaljaaf/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/tabarekaljaaf/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/tabarekaljaaf/.nuget/packages/microsoft.entityframeworkcore/5.0.9/microsoft.entityframeworkcore.5.0.9.nupkg.sha512",
@@ -25,6 +27,7 @@
     "/Users/tabarekaljaaf/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/tabarekaljaaf/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/tabarekaljaaf/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "/Users/tabarekaljaaf/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
     "/Users/tabarekaljaaf/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],
   "logs": []

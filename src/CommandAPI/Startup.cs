@@ -1,6 +1,7 @@
 
 
 using System;
+using AutoMapper;
 using CommandAPI.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -9,7 +10,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Npgsql;
-
 
 namespace CommandAPI
 {
@@ -37,6 +37,9 @@ namespace CommandAPI
 
 
             services.AddControllers(); /// Rrgister the services to enable the use of [controllers]
+
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+            
             services.AddScoped<ICommandAPIRepo, SqlCommandAPIRepo>(); /// Dependincy injuction
 
         }

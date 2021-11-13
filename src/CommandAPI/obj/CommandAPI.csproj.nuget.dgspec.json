@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tabarekaljaaf/Desktop/PROJECTS/APIs/CommandAPISolution/src/CommandAPI/CommandAPI.csproj": {}
+    "/Users/tabarekaljaaf/PROJECTS/APIs/CommandAPISolution/src/CommandAPI/CommandAPI.csproj": {}
   },
   "projects": {
-    "/Users/tabarekaljaaf/Desktop/PROJECTS/APIs/CommandAPISolution/src/CommandAPI/CommandAPI.csproj": {
+    "/Users/tabarekaljaaf/PROJECTS/APIs/CommandAPISolution/src/CommandAPI/CommandAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tabarekaljaaf/Desktop/PROJECTS/APIs/CommandAPISolution/src/CommandAPI/CommandAPI.csproj",
+        "projectUniqueName": "/Users/tabarekaljaaf/PROJECTS/APIs/CommandAPISolution/src/CommandAPI/CommandAPI.csproj",
         "projectName": "CommandAPI",
-        "projectPath": "/Users/tabarekaljaaf/Desktop/PROJECTS/APIs/CommandAPISolution/src/CommandAPI/CommandAPI.csproj",
+        "projectPath": "/Users/tabarekaljaaf/PROJECTS/APIs/CommandAPISolution/src/CommandAPI/CommandAPI.csproj",
         "packagesPath": "/Users/tabarekaljaaf/.nuget/packages/",
-        "outputPath": "/Users/tabarekaljaaf/Desktop/PROJECTS/APIs/CommandAPISolution/src/CommandAPI/obj/",
+        "outputPath": "/Users/tabarekaljaaf/PROJECTS/APIs/CommandAPISolution/src/CommandAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tabarekaljaaf/.nuget/NuGet/NuGet.Config"
@@ -38,6 +38,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.9, )"
